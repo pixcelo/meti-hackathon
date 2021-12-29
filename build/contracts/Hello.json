@@ -8,7 +8,7 @@
           "name": "initMessage",
           "type": "string"
         }
-      ],
+      ], 
       "stateMutability": "nonpayable",
       "type": "constructor"
     },
